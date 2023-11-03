@@ -1,0 +1,8 @@
+executable = quickdraw.sh
+output = quickdraw_download.out
+error = quickdraw_download.err
+log = quickdraw.log
+
+getenv = true
+
+queue

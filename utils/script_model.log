@@ -1,0 +1,25 @@
+000 (19335.000.000) 2023-11-03 03:11:09 Job submitted from host: <10.5.0.95:9618?addrs=10.5.0.95-9618&alias=its-og-login3.syr.edu&noUDP&sock=schedd_1995_fb87>
+...
+001 (19335.000.000) 2023-11-03 03:11:18 Job executing on host: <10.5.211.255:9618?addrs=10.5.211.255-9618&alias=CRUSH-OG-10-5-211-255&noUDP&sock=startd_990_a2d9>
+...
+006 (19335.000.000) 2023-11-03 03:11:27 Image size of job updated: 30816
+	2  -  MemoryUsage of job (MB)
+	1188  -  ResidentSetSize of job (KB)
+...
+005 (19335.000.000) 2023-11-03 03:11:35 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        1        1     30978 
+	   Memory (MB)          :        2        1       128 
+
+	Job terminated of its own accord at 2023-11-03T07:11:34Z with exit-code 0.
+...

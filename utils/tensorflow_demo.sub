@@ -1,0 +1,11 @@
+executable = conda_wrapper.sh
+arguments = wget.sh 
+
+input = /dev/null
+output = model.out
+error = model.err
+log = model.log
+
+getenv = true
+
+queue 

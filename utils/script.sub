@@ -1,0 +1,6 @@
+executable = wget.sh
+output = script_model.out
+error = script_model.err
+log = script_model.log
+
+queue
